@@ -126,3 +126,5 @@ Los videos son una manera más dinámica para informar y en la que el receptor m
  Link **[Youtube](https://www.youtube.com/watch?v=G5sijPKpXD8)**
 
  Link **[Carrusel](https://www.canva.com/design/DAGP19XqbtE/jeboLa4ff3akDcHiuNFJjA/edit?utm_content=DAGP19XqbtE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
+ Link **[Base de datos inicial](https://uccl0-my.sharepoint.com/:x:/g/personal/dominga_krotik_uc_cl/EcbWr5PEgFBLlN2JDZzfNNQBvVglCgfPmXsxRV4CH27BBQ?e=oUT7hM)**
