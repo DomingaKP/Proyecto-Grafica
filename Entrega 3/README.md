@@ -15,7 +15,7 @@ Elegido por su juego de palabras que refleja la injusticia en la relación cárc
 
 ## Identidad Gráfica
 
-- **Identificador gráfico**: ![Identificador gráfico](ruta/a/tu/imagen.jpg)
+- **Identificador gráfico**: ![LOGO](https://github.com/DomingaKP/Proyecto-Grafica/blob/85c08e661ca40ea727ce4ebd9d5f96e423e42150/Entrega%203/IMG_6678.jpg)
 - **Paleta de colores**: Amarillo, beige y morado. El morado es el color representativo del feminismo a nivel mundial, por lo que este color no podía faltar. En la paleta de contraste, el amarillo es un buen contraste con el morado. Sentíamos que estos colores eran muy fuertes para ser usados de fondo en la página, por lo que elegimos un beige que no canse la vista del usuario. 
 - **Tipografía**: Lora y manuscrita, para un toque serio, confiable, pero a la vez,amigable y accesible.
 - **Elementos gráficos**: Notas escritas a mano en post it, para agregar reflexiones o pensamientos y que se sienta más cercano. Además de flechas e iconos para dar una sensación de cercanía y que las personas sientan que son parte de la investigación.
