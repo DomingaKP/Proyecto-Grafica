@@ -64,7 +64,7 @@ ACA PONER LA FOTO DEL WIREFRAME Y EL BOCETO
 
 ## Carrusel
 
-[Carrusel] (https://www.canva.com/design/DAGUga_DUPU/bRFquxktsXBbRcDdAiThLg/view?utm_content=DAGUga_DUPU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Link a Canva](https://www.canva.com/design/DAGUga_DUPU/bRFquxktsXBbRcDdAiThLg/view?utm_content=DAGUga_DUPU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Conclusión
