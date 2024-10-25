@@ -55,7 +55,8 @@ ACA PONER LA FOTO DEL WIREFRAME Y EL BOCETO
 - **Necesidades**: Datos sobre la higiene menstrual en cárceles para políticas públicas.
 - **Desafíos**: Sobrecarga de información y obstáculos en la agenda política.
 
-ACA PONER MAPA DE LA EXPERIENCIA DEL USUARIO 
+![MAPA EXPERIENCIA DEL USUARIO](https://github.com/DomingaKP/Proyecto-Grafica/blob/d98d972590cc7947855ec1ec940ae3b9575ac3e0/Entrega%203/IMG_6669.jpg)
+
 
 ## Video Explicativo
 
