@@ -30,6 +30,8 @@ Nos inspiramos en las siguientes páginas web:
 
 La estructura se basa en un wireframe realizado en Cava, con un enfoque en jerarquía de información simple y lenguaje accesible.
 
+![BOCETO](https://github.com/DomingaKP/Proyecto-Grafica/blob/bb477b078f609b483f8ae4cef8efa0de8f5b45ad/Entrega%203/IMG_6635.jpg)
+
 ![WIREFRAME](https://github.com/DomingaKP/Proyecto-Grafica/blob/df91408d8b0359585ee0b4e66c7642f9dfdcbd72/Entrega%203/IMG_6670.jpg)
 
 
