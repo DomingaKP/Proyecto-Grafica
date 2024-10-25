@@ -15,7 +15,7 @@ Elegido por su juego de palabras que refleja la injusticia en la relación cárc
 
 ## Identidad Gráfica
 
-- **Identificador gráfico**: ![Identificador gráfico](ruta/a/tu/imagen.jpg)
+- **Identificador gráfico**: ![LOGO](https://github.com/DomingaKP/Proyecto-Grafica/blob/85c08e661ca40ea727ce4ebd9d5f96e423e42150/Entrega%203/IMG_6678.jpg)
 - **Paleta de colores**: Amarillo, beige y morado. El morado es el color representativo del feminismo a nivel mundial, por lo que este color no podía faltar. En la paleta de contraste, el amarillo es un buen contraste con el morado. Sentíamos que estos colores eran muy fuertes para ser usados de fondo en la página, por lo que elegimos un beige que no canse la vista del usuario. 
 - **Tipografía**: Lora y manuscrita, para un toque serio, confiable, pero a la vez,amigable y accesible.
 - **Elementos gráficos**: Notas escritas a mano en post it, para agregar reflexiones o pensamientos y que se sienta más cercano. Además de flechas e iconos para dar una sensación de cercanía y que las personas sientan que son parte de la investigación.
@@ -30,7 +30,8 @@ Nos inspiramos en las siguientes páginas web:
 
 La estructura se basa en un wireframe realizado en Cava, con un enfoque en jerarquía de información simple y lenguaje accesible.
 
-ACA PONER LA FOTO DEL WIREFRAME Y EL BOCETO 
+![WIREFRAME](https://github.com/DomingaKP/Proyecto-Grafica/blob/df91408d8b0359585ee0b4e66c7642f9dfdcbd72/Entrega%203/IMG_6670.jpg)
+
 
 ## Perfiles de Usuarios
 
@@ -55,7 +56,8 @@ ACA PONER LA FOTO DEL WIREFRAME Y EL BOCETO
 - **Necesidades**: Datos sobre la higiene menstrual en cárceles para políticas públicas.
 - **Desafíos**: Sobrecarga de información y obstáculos en la agenda política.
 
-ACA PONER MAPA DE LA EXPERIENCIA DEL USUARIO 
+![MAPA EXPERIENCIA DEL USUARIO](https://github.com/DomingaKP/Proyecto-Grafica/blob/d98d972590cc7947855ec1ec940ae3b9575ac3e0/Entrega%203/IMG_6669.jpg)
+
 
 ## Video Explicativo
 
@@ -63,7 +65,7 @@ ACA PONER MAPA DE LA EXPERIENCIA DEL USUARIO
 
 ## Carrusel
 
-https://www.canva.com/design/DAGUga_DUPU/bRFquxktsXBbRcDdAiThLg/view?utm_content=DAGUga_DUPU&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[Link a Canva](https://www.canva.com/design/DAGUga_DUPU/bRFquxktsXBbRcDdAiThLg/view?utm_content=DAGUga_DUPU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Conclusión
