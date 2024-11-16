@@ -47,7 +47,6 @@ Total Atendidos:Es el valor numérico que refleja la cantidad de personas atendi
 
 
 Ficha técnica del gráfico 4: "Regiones con Más Hombres en Cárceles"
-Descripción
 Título del gráfico: Regiones con Más Hombres en Cárceles
 Tipo de gráfico: Barras horizontales simples.
 Variables representadas:
@@ -64,7 +63,7 @@ Enfoque: Muestra únicamente la población masculina atendida por región.
 Uso del gráfico: Facilitar la comparación de hombres atendidos entre regiones.
 
 Ficha técnica del gráfico 5: "Regiones con Más Mujeres en Cárceles"
-Descripción
+
 Título del gráfico: Regiones con Más Mujeres en Cárceles
 Tipo de gráfico: Barras horizontales simples.
 Variables representadas:
