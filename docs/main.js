@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', () => { const imageContainer = document.querySelector('img'); imageContainer.addEventListener('mouseover', () => { imageContainer.style.transform = 'scale(1.2)'; }); imageContainer.addEventListener('mouseout', () => { imageContainer.style.transform = 'scale(1)'; }); });
