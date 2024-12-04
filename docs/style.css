@@ -87,7 +87,7 @@ main {
 }
 
 footer {
-    background-color: #6c5ce7;
+    background-color: #fff78f;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -116,3 +116,10 @@ p {
     margin-top:50px;
     margin-bottom: 50px;
             }
+
+
+div#graficouno, div#graficodos {
+margin: 0 auto;
+display: block;
+left: 30%;
+}
