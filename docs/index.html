@@ -8,15 +8,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reproducción Automática</title>
 
-    <audio autoplay>
-        <source src="reja.mp3" type="audio/mpeg">
-        Tu navegador no soporta la reproducción de audio.
-    </audio>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ser mujer y privada de libertad: la menstruación como castigo adicional en Chile</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 </head>
 
 <body> 
@@ -72,8 +71,10 @@
 
     
         <section>
+
+            <div id="graficotransparente"></div>
             
-            <Div> <img src="graficok.jpg" id="grafico"> </Div>
+    
         
         </section>
        
@@ -81,6 +82,13 @@
             Camila es un personaje ficticio, pero su historia representa la realidad de muchas mujeres encarceladas en Chile. Un país que, después de Guayana Francesa, 
             tiene la mayor proporción de mujeres privadas de libertad en Latinoamérica. 
         </p>
+
+        <video controls autoplay muted loop>
+            <source src="super.mp4" type="video/mp4">
+            Tu navegador no soporta la reproducción de videos en HTML5.
+        </video>
+    
+        <div>  <source src="super.mp4" type="super/mp4"> </div>
 
         <div class="Titulo"><h1>  Cárceles diseñadas para hombres, habitadas por mujeres </h1></div>
         <p class="parrafo">
@@ -97,27 +105,23 @@
         
     </section>
     
-    <div class="Titulo"><h1>La prisión preventiva y la sobrepoblación</h1> </div>
+    <div class="Titulo"><h2>La prisión preventiva y la sobrepoblación</h2> </div>
 
     <p class="parrafo">
-        No es novedad escuchar que nuestro sistema carcelario se encuentra en una especie de colapso desde hace algunos años. Pero, ¿a qué se refieren exactamente, esta afirmación? ¿Cuáles son los principales motivos que llevan a este desgaste carcelario? 
-        La prisión preventiva es una de las medidas más utilizadas en el país, aplicándose incluso a delitos menores. Casos mediáticos como el del exfutbolista Jorge Valdivia han puesto en debate este tipo de castigos y su impacto en el sistema penitenciario. 
-        La población penal ha aumentado sólo un 29% de 2013 hasta 2024 pasando de cerca de 43,000 reos a 60,000. Mauricio Salgado, investigador del <a href="https://www.cepchile.cl/" > Centro de Estudios Públicos </a>, señala: "Aunque los delitos menos violentos, 
-        como hurtos, han disminuido desde 2018, otros crímenes como homicidios y secuestros han aumentado significativamente, lo que ha generado un pánico social que se traduce en políticas más punitivas".
-        Este endurecimiento de penas y el uso excesivo de la prisión preventiva agravan el hacinamiento, afectando particularmente a mujeres como Camila.  
+
+        No es novedad escuchar que nuestro sistema carcelario se encuentra en una especie de colapso desde hace algunos años. Pero, ¿a qué se refieren exactamente, esta afirmación? ¿Cuáles son los principales motivos que llevan a este desgaste carcelario?
+        La prisión preventiva es una de las medidas más utilizadas en el país, aplicándose incluso a delitos menores. Casos mediáticos como el de la exalcaldesa Cathy Barriga han puesto en debate este tipo de castigos y su impacto en el sistema penitenciario. 
+        La población penal ha aumentado sólo un 29% de 2013 hasta 2024 pasando de cerca de 43,000 reos a 60,000.Mauricio Salgado, investigador del <a href="https://www.cepchile.cl/" > Centro de Estudios Públicos </a>, señala: "Aunque los delitos menos violentos, como hurtos, han disminuido desde 2018, 
+        otros crímenes como homicidios y secuestros han aumentado significativamente, lo que ha generado un pánico social que se traduce en políticas más punitivas". Este endurecimiento de penas y el uso excesivo de la prisión preventiva agravan el hacinamiento, 
+        afectando particularmente a mujeres como Camila.
 
     </p>
 
-    <video controls autoplay muted loop>
-        <source src="super.mp4" type="video/mp4">
-        Tu navegador no soporta la reproducción de videos en HTML5.
-    </video>
 
-    <div>  <source src="super.mp4" type="super/mp4"> </div>
 
         <section>
 
-         <div class="Titulo"><h1>Un presupuesto indiferente al género</h1> </div>
+         <div class="Titulo"><h2>Un presupuesto indiferente al género</h2> </div>
 
         <p class="parrafo">
             Según <a href="https://www.portaltransparencia.cl/PortalPdT/">Transparencia Activa</a>, el 97% del presupuesto de Gendarmería se destina al mantenimiento general de las personas privadas de libertad, dividido en gastos de personal, bienes y servicios, y prestaciones de seguridad social. 
@@ -131,7 +135,7 @@
         
         </section>
 
-        <div class="Titulo"><h1>Reformas recientes: ¿una solución o un problema? </h1> </div>
+        <div class="Titulo"><h2>Reformas recientes: ¿una solución o un problema? </h2> </div>
         <p class="parrafo">
             En agosto de 2024, el presidente Gabriel Boric firmó una reforma al sistema penitenciario cuyo objetivo es endurecer penas y enfrentar el crimen organizado. 
             Sin embargo, diversos analistas advierten que estas medidas podrían agravar la sobrepoblación carcelaria. El nuevo ministro de Justicia, Jaime Gajardo, ha asumido el desafío de reformar el sistema penitenciario, 
@@ -142,17 +146,23 @@
         <section> 
         
          <Div> <img src="mujeres.jpeg" id="mujeres"> </Div>
+         <p class="parrafo">
+            Imagen por: RTVE
+         </p>
 
         </section>
 
     </main>
 
 <footer>
-    <p> Dominga Krotik Teresa Leiva Valentina Zaldívar</p>
+    <p> Dominga Krotik Teresa Leiva Valentina Zaldívar <a href="   https://docs.google.com/document/d/1P1zXNKb5iVe1ertstRb9Pva5ZMZEhwp25hS8ogqzR_o/edit?tab=t.0">Referencias</a></p>
+
+ 
 </footer>
 </body>
 
 <script src="main.js"></script>
+<script src="graficos/graficotransparente.js"></script>
 
 
 </html>

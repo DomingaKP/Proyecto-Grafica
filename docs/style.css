@@ -118,7 +118,7 @@ p {
             }
 
 
-div#graficouno, div#graficodos {
+div#graficotransparente, div#graficodos {
 margin: 0 auto;
 display: block;
 left: 30%;

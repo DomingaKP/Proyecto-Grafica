@@ -1,1 +1,12 @@
-document.addEventListener('DOMContentLoaded', () => { const imageContainer = document.querySelector('img'); imageContainer.addEventListener('mouseover', () => { imageContainer.style.transform = 'scale(1.2)'; }); imageContainer.addEventListener('mouseout', () => { imageContainer.style.transform = 'scale(1)'; }); });
+const images = document.querySelectorAll('img');
+images.forEach(image => {
+    image.addEventListener('mouseover', () => {
+        image.style.transform = 'scale(1.1)';
+        image.style.transition = '1s'
+    });
+
+    image.addEventListener('mouseout', () => {
+        image.style.transform = 'scale(1)';
+        image.style.transition = '1s'
+    });
+});
