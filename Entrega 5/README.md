@@ -8,9 +8,9 @@ Este proyecto tiene como objetivo diseñar una webstory que aborde la problemát
 
 | Tareas:  | Codificar en Visual Studio Code   | Crónica   | Readme, carrusel y gráficos    |
 | :---- | :---- | :---- | :---- |
-| Dominga Krotik  | 1 1 | 1 1 | 1 1 |
-| Valentina Zaldívar   |   | 1 1 | 1 1 |
-| Teresa Leiva   |   | 1 1 | 1 1 |
+| Dominga Krotik  | 1  |  1 |  1 |
+| Valentina Zaldívar   |   |  1 | 1 |
+| Teresa Leiva   |   |  1 |  1 |
 
  
 
