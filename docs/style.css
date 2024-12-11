@@ -52,6 +52,13 @@ header {
     margin-bottom: 50px;
     }
 
+    #afiche {
+height: 100%;
+width: 100%;
+margin-top:50px;
+margin-bottom: 50px;
+             }
+            
 
 
 .Titulo {
@@ -118,7 +125,7 @@ p {
             }
 
 
-div#graficotransparente, div#graficodos {
+div#graficotransparente, div#graficofinal {
 margin: 0 auto;
 display: block;
 left: 20%;
