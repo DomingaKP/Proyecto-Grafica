@@ -53,8 +53,8 @@ header {
     }
 
     #afiche {
-height: 90%;
-width: 90%;
+height: 100%;
+width: 100%;
 margin-top:50px;
 margin-bottom: 50px;
              }
@@ -131,8 +131,9 @@ display: block;
 left: 20%;
 }
 
-div#graficofinal {
-    margin: 0 auto;
-    display: block;
-    left: 20%;
-    }
+
+div#graficocuatro {
+margin: 0 auto;
+display: block;
+left: 20%;
+}
