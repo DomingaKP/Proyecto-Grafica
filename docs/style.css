@@ -9,7 +9,8 @@ body {
 }
 
 <style>
-        body {
+ 
+body {
             margin: 0;
             padding: 0;
             display: flex;
@@ -18,9 +19,7 @@ body {
             flex-direction: column;
         }
 
-      
-
-    </style>
+ </style>
 
    
 header {
@@ -52,13 +51,14 @@ header {
     margin-bottom: 50px;
     }
 
-    #afiche {
-height: 100%;
-width: 100%;
-margin-top:50px;
-margin-bottom: 50px;
-             }
-            
+#afiche
+{
+    height: 100%;
+    width: 100%;
+    margin-top:50px;
+    margin-bottom: 50px;
+    }
+ 
 
 
 .Titulo {
@@ -135,5 +135,5 @@ left: 20%;
 div#graficocuatro {
 margin: 0 auto;
 display: block;
-left: 20%;
+left: 18%;
 }
