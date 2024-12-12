@@ -54,7 +54,7 @@ header {
 
     #afiche {
 height: 100%;
-width: 110%;
+width: 100%;
 margin-top:50px;
 margin-bottom: 50px;
              }
@@ -135,5 +135,5 @@ left: 20%;
 div#graficocuatro {
 margin: 0 auto;
 display: block;
-left: 25%;
+left: 20%;
 }
